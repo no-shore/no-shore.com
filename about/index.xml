@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Nº Shore | Chicago Recording Studio</title>
+    <link>http://no-shore.com/about/</link>
+    <description>Recent content in Abouts on Nº Shore | Chicago Recording Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://no-shore.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://no-shore.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://no-shore.com/about/</guid>
+      <description>About Us  Our engineer Carter Konz is a musician, audio-geek, and software developer. He recieved a degree in Computer Science from Loyola University Chicago in 2017, where he had the opportunity to practice audio engineering in conjunction with formal Computer Science training. A strong background with computers and technology provides him a unique, workflow-driven, audio engineering skill set. In addition to a creative and musical ear, Carter&#39;s technical training has enabled him to develop a reliable, streamlined engineering workflow that eliminates technical issues so that your music can come first.</description>
+    </item>
+    
+  </channel>
+</rss>

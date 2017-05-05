@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gears on Nº Shore | Chicago Recording Studio</title>
+    <link>http://no-shore.com/gear/</link>
+    <description>Recent content in Gears on Nº Shore | Chicago Recording Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://no-shore.com/gear/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gear</title>
+      <link>http://no-shore.com/gear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://no-shore.com/gear/</guid>
+      <description>Gear  Rig  Mac OS X 10.11  2.8 GHz Intel Core i7 16GB RAM  Focusrite Scarlett 6i6 Yamaha HS80m Studio Monitors Fostex T50RP Studio Headphones  Microphones  Rode NT1-A Shure SM58 Electro-Voice 644 Electro-Voice DS35  Keyboards  Juno 106 Korg Minilogue M-Audio Axiom 61  Software  Logic Pro X Ableton Live Plugins:  Waves FabFilter iZotope Antares Auto-Tune Celemony Melodyne Lexicon McDSP PSPaudioware Valhalla Softube   Misc.</description>
+    </item>
+    
+  </channel>
+</rss>
