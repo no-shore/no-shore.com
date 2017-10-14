@@ -34,3 +34,7 @@ h3 { font-family:-apple-system, BlinkMacSystemFont, Helvetica, sans-serif; font-
 .site_info { margin:40px; font-family:-apple-system, BlinkMacSystemFont, Helvetica, sans-serif;; font-size:11px; font-style:italic; line-height:20px; clear: both; /* border-top: 1px #CCC solid; */ padding-top:40px; padding-bottom:20px; /* text-align: right; */ }
 
 .indent { margin-left:12px; }
+
+iframe {
+  margin-bottom: 30px;
+}
