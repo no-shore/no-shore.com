@@ -1,40 +1,19 @@
-html { height: 100% }
-body { height: 100%; margin: 0; padding: 0; background-color: #FFF5EC; }
-a { color:#C1282E; text-decoration:none; }
-a:hover { text-decoration:underline; color:#C1282E; }
-div, span, p { font-family:-apple-system, BlinkMacSystemFont, Helvetica, sans-serif;; margin: 0; padding: 0; }
-p { margin-bottom:20px; }
+html {
+  display: flex;
+  justify-content: center;
+  background-color: #363738;
+}
 
-.content { width:1000px; margin:auto; }
-.text-content { width:700px; margin:auto; }
+body {
+  color: #ffffff;
+  font-family:-apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
+}
 
-#nav { font-family: -apple-system, BlinkMacSystemFont, Helvetica, sans-serif; font-size: 16px; font-weight: bold; text-align: right; margin-top:100px; margin-right:40px; height:40px; }
-#nav a { color:#000; text-decoration:none; }
-#nav a:hover { color:#C1282E; }
+a {
+  color:#6faeed;
+  text-decoration:none;
+}
 
-.header { background-color: #ff6060; height:460px; margin: 0px 0px 40px 0px;}
-.header_logo { float:left; margin:0; }
-.header_logo img { width:580px; height:460px; }
-.header_photo { float:left; margin: 0; margin-top:40px; }
-.header_photo img { width:380px; height:380px; }
-
-h1 { font-family:-apple-system, BlinkMacSystemFont, Helvetica, sans-serif; font-size:28px; font-weight: 400; margin:20px; line-height:30px; clear:both; }
-h2 { font-family:-apple-system, BlinkMacSystemFont, Helvetica, sans-serif; font-size:24px; margin:0; margin-bottom: 20px; line-height:25px; font-weight: normal; clear:both; }
-h3 { font-family:-apple-system, BlinkMacSystemFont, Helvetica, sans-serif; font-size:16px; font-weight: bold; font-style: italic; margin:0; margin-bottom: 10px; line-height:20px; }
-
-.uppercase { text-transform: uppercase; }
-
-.text_block { font-family:'Verdana'; font-size:11px; width:380px; float:right; margin:40px; line-height:20px; /* text-align: justify; */ }
-.wide { float:auto; margin:20px; }
-.text_photo { width:500px; margin-top:40px; margin-left:40px; float: left; }
-.text_photo img { width:500px; }
-.caption { font-style: italic; font-size: 11px; margin:5px; height:10px; margin-bottom:-5px; text-align: right; }
-.italic { font-style: italic; }
-
-.site_info { margin:40px; font-family:-apple-system, BlinkMacSystemFont, Helvetica, sans-serif;; font-size:11px; font-style:italic; line-height:20px; clear: both; /* border-top: 1px #CCC solid; */ padding-top:40px; padding-bottom:20px; /* text-align: right; */ }
-
-.indent { margin-left:12px; }
-
-iframe {
-  margin-bottom: 30px;
+a:hover {
+  text-decoration:underline;
 }
