@@ -17,3 +17,7 @@ a {
 a:hover {
   text-decoration:underline;
 }
+
+.lists {
+  padding-right: 20vw;
+}
